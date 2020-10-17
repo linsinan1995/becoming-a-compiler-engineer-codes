@@ -18,9 +18,7 @@ myVar =  32;
 
 Output:
 ```
-(my, identifier)
-Unrecognized character: V
-(ar, identifier)
+(myVar, identifier)
 (=, assignment)
 (32, int)
 (;, line terminator)
