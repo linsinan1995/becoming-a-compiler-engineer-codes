@@ -17,21 +17,21 @@ myVar =  32;
 ```
 
 Output:
-
+```
 (my, identifier)
 Unrecognized character: V
 (ar, identifier)
 (=, assignment)
 (32, int)
 (;, line terminator)
-
+```
 
 ```
 myVar <- (myVar + 32)*2;
 ```
 
 Output:
-
+```
 (myVar, identifier)
 (<-, assignment)
 ((, open parent)
@@ -42,3 +42,4 @@ Output:
 (*, operator)
 (2, int)
 (;, line terminator)
+```
